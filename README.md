@@ -31,5 +31,9 @@ Methods or functions are also created in this project. Some of the methods are:
 <div>
 <h2>Test Cases:</h2>
 Here are the gameplay examples and conditions that might happen in the Tic-Tac-Toe game:
-
+<ul>
+  <li>Tie or draw<br /><img src="assets/tie.gif" /></li>
+  <li>X wins<br /><img src="assets/xWins.gif" /></li>
+  <li>O wins<br /><img src="assets/oWins.gif" /></li>
+</ul>
 </div>
